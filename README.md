@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frodrigueez
-- 👀 I’m interested in using my perspective and desire contribute something meaningful to my fellow humans and build my hard skills.
+- 👀 I’m interested in using my perspective and desire to contribute something meaningful to my fellow humans.
 - 🌱 I’m currently learning the data pipeline architecture! Working in Python and Perl
 - 💞️ I’m looking to collaborate on fun projects.
 - 📫 How to reach me: fdanyellla@gmail.com
